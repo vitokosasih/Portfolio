@@ -16,9 +16,9 @@ This <a href="https://www.kaggle.com/rohitsahoo/sales-forecasting">dataset</a> c
 
 <h2>Libraries</h2>
 
-1. Pandas.
-2. Numpy.
-3. Plotly.
-4. Seaborn.
-5. Matplotlib.
+1. Pandas
+2. Numpy
+3. Plotly
+4. Seaborn
+5. Matplotlib
 6. fbprophet
